@@ -1,7 +1,17 @@
 ChicagoCrimeAnalysis
 ==============================
 
-Recent Trends in Chicago Crime
+Recent Trends in Chicago Crime 
+
+Analysis of Chicago Crime data to determine if there are any recent changes in location, type or quantity of crimes reported.  The source of the data is the [Chicago Police Department Crime Database]() where the data contained represents crimes reported versus crimes charged.
+
+The project is developed by [Steven Bowler](https://www.linkedin.com/in/stevenbowler1).
+
+See  preliminary project definition [here](https://docs.google.com/document/d/1aKKIVhnydvb2Wx4-KtHw5w3NjtbGHZVZE2HP6YGI9KI/edit).
+
+See original project proposal [here].
+
+Original dataset accessed from [Chicago Crime Database](https://data.cityofchicago.org/Public-Safety/Crimes-Last-30-days/fjjk-7e4n)
 
 Project Organization
 ------------
@@ -52,6 +62,12 @@ Project Organization
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
 
+
+### Setup Documetation
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+Initial project file structure built with [CookieCutter Data Science Project Template](https://drivendata.github.io/cookiecutter-data-science/)
+````
+cookiecutter https://github.com/drivendata/cookiecutter-data-science
+````
